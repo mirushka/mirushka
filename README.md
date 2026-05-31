@@ -10,4 +10,4 @@ Welcome to my Github profile! I am passionate about transforming complex data in
 <!-- * Methodologies: Process Improvement, Agile Fundamentals -->
 
 ## 📬 Let’s Connect
-🔗 LinkedIn [LinkedIn](https://www.linkedin.com/in/miroslava-chrienova)
+🔗 [LinkedIn](https://www.linkedin.com/in/miroslava-chrienova)
