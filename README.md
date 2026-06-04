@@ -9,5 +9,8 @@ Welcome to my Github profile! I am passionate about transforming complex data in
 * Tools: Power BI, Excel, Google Sheets <!-- , Lucidchart, Microsoft Visio-->
 <!-- * Methodologies: Process Improvement, Agile Fundamentals -->
 
+## 🗂 Featured Projects
+
+
 ## 📬 Let’s Connect
 🔗 [LinkedIn](https://www.linkedin.com/in/miroslava-chrienova)
