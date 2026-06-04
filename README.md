@@ -10,7 +10,7 @@ Welcome to my Github profile! I am passionate about transforming complex data in
 <!-- * Methodologies: Process Improvement, Agile Fundamentals -->
 
 ## 🗂 Featured Projects
-* Business Analysis (https://github.com/mirushka/Project-1-Business-Analysis-Trash-Bag-Category-Performance-Amazon-US)
+* [Business Analysis](https://github.com/mirushka/Project-1-Business-Analysis-Trash-Bag-Category-Performance-Amazon-US)
 
 
 ## 📬 Let’s Connect
