@@ -11,6 +11,7 @@ Welcome to my Github profile! I am passionate about transforming complex data in
 
 ## 🗂 Featured Projects
 🗂 [Business Analysis](https://github.com/mirushka/Project-1-Business-Analysis-Trash-Bag-Category-Performance-Amazon-US)
+<!-- *🗂 Dashboards in Excel -->
 
 
 ## 📬 Let’s Connect
